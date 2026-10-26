@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "etabs-mcp": {
+      "command": "python",
+      "args": [
+        "C:/ruta/a/tu/repositorio/IteraStruct_etabs_mcp.py"
+      ]
+    }
+  }
+}
